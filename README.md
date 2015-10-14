@@ -15,3 +15,6 @@ ruby codonizer.rb sequences_CDS.fasta
 
 #Pending
 Still need to figure out how to calculate codon ratios for each aminoacid...
+
+#License
+The MIT License (MIT) - Copyright (c) 2015 bpollakw
