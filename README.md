@@ -8,7 +8,7 @@ I'm new to this git stuff so bear with my mess...
 BioRuby (gem install bio)
 
 A list of Open Reading Frames (ORFs) in fasta format. 
-Get the transcriptome, quantify abundance (RSEM, eXpress ...), predict Open Reading Frames (ORFs) and then filter by abundance.
+Get the transcriptome (Trinity, Bridger, TransAbySS, etc...), quantify abundance (RSEM, eXpress ...), filter by abundance and predict Open Reading Frames (ORFs). Double check that sequences start with start codon (ATG)...
 
 #Usage
 ruby codonizer.rb sequences_CDS.fasta
